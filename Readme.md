@@ -2,7 +2,7 @@
 
 Welcome to **Cherry Cake**, a delightful and visually appealing website for a modern bakery. This project is a simple, static website built with fundamental web technologies, showcasing a variety of delicious baked goods.
 
-[View Live Website 🚀](#)
+[View Live Website 🚀](https://bakery-website-kappa.vercel.app/)
 
 ## 🖼️ Screenshot
 
