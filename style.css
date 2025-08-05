@@ -207,7 +207,7 @@ section{
 }
 
 .blogs{
-    background: url('New folder/images.jpeg') no-repeat;
+    background: url('assets/images.jpeg') no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -251,7 +251,7 @@ section{
 }
  
 .newsletter{
-    background: url('New folder/images.jpeg') no-repeat;
+    background: url('assets/images.jpeg') no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -334,7 +334,7 @@ section{
 }
 
 .footer {
-    background: url('New folder/background-graphics-with-light-purple-white-black-gradients-use-designs-for-web-pages-apps-mobile-text-backgrounds-screens-wallpapers-decorations-and-art-design-elements-photo.jpg') no-repeat;
+    background: url('assets/background-graphics-with-light-purple-white-black-gradients-use-designs-for-web-pages-apps-mobile-text-backgrounds-screens-wallpapers-decorations-and-art-design-elements-photo.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
 }
