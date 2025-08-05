@@ -106,7 +106,7 @@ html::-webkit-scrollbar-thumb{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url('New folder/blueberry-cake-in-cartoon-style-on-purple-background-doodle-illustration-for-poster-banner-website-advertisement-illustration-with-colorful-sweet-dessert-vector.jpg') no-repeat;
+    background: url('assets/blueberry-cake-in-cartoon-style-on-purple-background-doodle-illustration-for-poster-banner-website-advertisement-illustration-with-colorful-sweet-dessert-vector.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
 }
